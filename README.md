@@ -6,3 +6,6 @@ INTERN ID - CT06DY1009
 MENTOR NAME - NEELA SANTOSH
 DURATION - 6 WEEKS
 BATCH - AG14
+
+OUTPUT
+[cgpa_report.pdf](https://github.com/user-attachments/files/22077126/cgpa_report.pdf)
