@@ -21,7 +21,11 @@ BATCH - AG14
 
 
 
+
+
 OUTPUT:
+
+
 
 
 
@@ -29,7 +33,11 @@ OUTPUT:
 
 
 
+
+
 PROJECT DESCRIPTION:
+
+
 
 
 This project focuses on automating the process of reading data from structured files (e.g., CSV, Excel, or JSON), performing analysis, and generating a professional PDF report. The script processes raw data, extracts key insights (such as averages, trends, or summaries), and automatically formats them into a well-structured PDF document.
@@ -37,7 +45,11 @@ This project focuses on automating the process of reading data from structured f
 Using libraries like ReportLab or FPDF, the PDF report includes headings, tables, charts, and summaries, making it suitable for business reporting, academic analysis, or automated documentation. This reduces manual effort, ensures consistency, and enables quick reporting from large datasets.
 
 
+
+
 TECHNOLOGIES USED:
+
+
 
 
 Python – core programming language
@@ -54,7 +66,11 @@ CSV/Excel/JSON – as input data formats
 
 
 
+
+
 OBJECTIVES:
+
+
 
 
 
